@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(230, 227, 245);
+    font-size: 1.25em;
+}
+h1 {
+    text-align: center;
+    color: rgb(3, 18, 44);
+}
+h2 {
+    text-align: center;
+    color: rgba(32, 34, 177, 0.86);
+}
+h3 {
+    color: rgba(47, 9, 80, 0.86);
+}
+h4 {
+    margin: 20px;
+    font-weight: normal;
+    color: rgba(32, 34, 177, 0.86);
+}
+p {
+    margin: 20px;
+}
